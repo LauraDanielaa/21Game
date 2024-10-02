@@ -11,5 +11,5 @@ En este repositorio se encuentra un juego llamado 21 o tambien conocido como Bla
 Modelos de programación 2 
 
 ### Descripción del taller
-Se realiza el juego de 21 que consiste en que se tiene una baraja de cartas enumeradas del 1 al 9 y con las letras J, Q. K que representan un 10 y un A que representa un 1 o un 11 para conveniencia en el juego. A los dos jugadores, los cuales son el jugador principar (el usuario) y el dealer (la maquina) compiten entre los dos a ver cual consisgue llegar al numero 21 o quien se aproxima mas a tener este número 
+Se realiza el juego de 21 que consiste en que se tiene una baraja de cartas enumeradas del 1 al 9 y con las letras J, Q, K que representan un 10 y un A que representa un 1 o un 11 para conveniencia en el juego. A los dos jugadores, los cuales son el jugador principar (el usuario) y el dealer (la maquina) compiten entre los dos a ver cual consisgue llegar al número 21 o quien se aproxima mas a tener este número 
 
